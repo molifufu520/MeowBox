@@ -1,0 +1,22 @@
+# Secrets & local configs
+.env
+.env.*
+*.key
+*.pem
+rclone.conf
+secrets/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Build & temp files
+*.exe
+*.tmp
+*.log
+tmp/
+dist/
+build/
